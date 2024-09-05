@@ -1,0 +1,3 @@
+﻿  Lecture 4.cpp
+C:\Users\Sean\Documents\Embedded_Systems\Lecture 4\Lecture 4.cpp(75,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Lecture 4.vcxproj -> C:\Users\Sean\Documents\Embedded_Systems\Lecture 4\x64\Debug\Lecture 4.exe
