@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sean\\Documents\\Embedded_Systems\\Homework_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE4C0E90-EC3C-48A1-A4A4-1BD3E39FB079}|Homework_1.vcxproj|C:\\Users\\Sean\\Documents\\Embedded_Systems\\Homework_1\\Homework_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE4C0E90-EC3C-48A1-A4A4-1BD3E39FB079}|Homework_1.vcxproj|solutionrelative:Homework_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Homework_1.cpp",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\Embedded_Systems\\Homework_1\\Homework_1.cpp",
+              "RelativeDocumentMoniker": "Homework_1.cpp",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\Embedded_Systems\\Homework_1\\Homework_1.cpp",
+              "RelativeToolTip": "Homework_1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-07T00:50:51.021Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
