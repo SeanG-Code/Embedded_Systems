@@ -25,12 +25,12 @@ void setup()
 void loop() 
 {
   digitalWrite(BN1, HIGH);
-  //digitalWrite(AN1, HIGH);
+  digitalWrite(AN1, HIGH);
 
   delay(3000);
   
   digitalWrite(BN1, LOW);
-  //digitalWrite(AN1, LOW);
+  digitalWrite(AN1, LOW);
 
   delay(1000);
 }

@@ -1,0 +1,5 @@
+﻿  Homework_3.cpp
+C:\Users\Sean\Documents\Embedded_Systems\Homework_3\Homework_3.cpp(144,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sean\Documents\Embedded_Systems\Homework_3\Homework_3.cpp(178,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sean\Documents\Embedded_Systems\Homework_3\Homework_3.cpp(156,1): warning C4715: 'palindrome': not all control paths return a value
+  Homework_3.vcxproj -> C:\Users\Sean\Documents\Embedded_Systems\Homework_3\x64\Debug\Homework_3.exe
