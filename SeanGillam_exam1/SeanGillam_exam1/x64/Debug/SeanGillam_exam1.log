@@ -1,3 +1,6 @@
 ﻿  SeanGillam_exam1.cpp
-C:\Users\Sean\Documents\Embedded_Systems\SeanGillam_exam1\SeanGillam_exam1.cpp(37,9): warning C4101: 'hold': unreferenced local variable
+C:\Users\Sean\Documents\Embedded_Systems\SeanGillam_exam1\SeanGillam_exam1.cpp(93,37): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sean\Documents\Embedded_Systems\SeanGillam_exam1\SeanGillam_exam1.cpp(98,37): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sean\Documents\Embedded_Systems\SeanGillam_exam1\SeanGillam_exam1.cpp(134,38): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sean\Documents\Embedded_Systems\SeanGillam_exam1\SeanGillam_exam1.cpp(138,1): warning C4715: 'patient_health_data': not all control paths return a value
   SeanGillam_exam1.vcxproj -> C:\Users\Sean\Documents\Embedded_Systems\SeanGillam_exam1\x64\Debug\SeanGillam_exam1.exe

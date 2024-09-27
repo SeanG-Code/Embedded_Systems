@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sean\\Documents\\Embedded_Systems\\Lecture 12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D380143-4C6C-421E-BD09-C6C7F9779FBF}|Lecture 12.vcxproj|C:\\Users\\Sean\\Documents\\Embedded_Systems\\Lecture 12\\Lecture 12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D380143-4C6C-421E-BD09-C6C7F9779FBF}|Lecture 12.vcxproj|solutionrelative:Lecture 12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lecture 12.cpp",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\Embedded_Systems\\Lecture 12\\Lecture 12.cpp",
+              "RelativeDocumentMoniker": "Lecture 12.cpp",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\Embedded_Systems\\Lecture 12\\Lecture 12.cpp",
+              "RelativeToolTip": "Lecture 12.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-26T22:37:43.045Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
